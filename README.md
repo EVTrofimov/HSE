@@ -6,5 +6,4 @@ Master's project by Egor Trofimov
 
 Документация по проекту: https://github.com/EVTrofimov/HSE/tree/main/manual
 
-В папке "forward-looking" размещена демонстрация перспективной версии (реализована на Python), которая находится на стадии пользовательского тестирования.
-Документация по перспективному проекту в папке "forward-looking/manual".
+Демонстрация перспективной версии (на Python), которая находится на стадии пользовательского тестирования, с руководством пользователя: https://github.com/EVTrofimov/HSE/tree/main/forward-looking
