@@ -1,0 +1,79 @@
+.step_block[data-step="2"] .progress[data-steps="3"] .second:after {
+    width: 50%;
+}
+
+.input-address-selector {
+    display: none;
+    padding: 10px 20px;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    z-index: 2;
+    background: #fff;
+    border-left: 1px solid #3f53ba;
+    border-right: 1px solid #3f53ba;
+    border-bottom: 1px solid #3f53ba;
+    width: 100%;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.input-address-selector a {
+    display: block;
+    cursor: pointer;
+}
+
+textarea.form__item {
+    width: 100%;
+    height: 300px;
+    resize: none;
+}
+
+.enter_box__body .form_title {
+    width: 100%;
+}
+
+.enter_box__body {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 50px;
+    align-items: flex-end;
+}
+
+.width_100 {
+    width: 100%;
+}
+
+.width_50 {
+    width: calc(50% - 25px);
+}
+
+.form_box.invalid .upload_container .btn {
+    border-color: #ff9a79;
+}
+
+.added_files__item {
+    position: relative;
+}
+
+.file-delete {
+    background: none;
+    border: none;
+    font-size: 25px;
+    font-weight: 400;
+    color: red;
+    position: absolute;
+    right: -40px;
+    top: calc(50% - 20px);
+}
+
+a.uploaded_filename {
+    text-decoration: none;
+    color: #666667;
+}
+
+@media (max-width: 640px) {
+    .width_50 {
+        width: 100%;
+    }
+}
