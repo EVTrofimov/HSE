@@ -6,6 +6,7 @@ Master's project by Egor Trofimov
 Результаты проекта доступны по адресу:
 https://inargument.ru/statement/podgotovka-paketa-dokumentov-po-preduprezhdeniyu-korruptsii-v-organizatsii/podgotovka-paketa-dokumentov-po-preduprezhdeniyu-korruptsii-v-organizatsii/
 
-Документация по проекту размещена в папке "Documentation".
+Документация по проекту в папке "manual".
 
-Дополнительно размещена демонстрация перспективной версии (реализована на Python), которая находится на стадии пользовательского тестирования.
+В папке "forward-looking" размещена демонстрация перспективной версии (реализована на Python), которая находится на стадии пользовательского тестирования.
+Документация по перспективному проекту в папке "forward-looking/manual".
