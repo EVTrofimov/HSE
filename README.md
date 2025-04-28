@@ -1,12 +1,10 @@
 # HSE
 Master's project by Egor Trofimov
-
 Магистерский проект "Разработка веб-сервиса для сопровождения бизнес-процессов по предупреждению коррупции в организациях"
 
-Результаты проекта доступны по адресу:
-https://inargument.ru/statement/podgotovka-paketa-dokumentov-po-preduprezhdeniyu-korruptsii-v-organizatsii/podgotovka-paketa-dokumentov-po-preduprezhdeniyu-korruptsii-v-organizatsii/
+Результаты проекта доступны по адресу: https://inargument.ru/statement/podgotovka-paketa-dokumentov-po-preduprezhdeniyu-korruptsii-v-organizatsii/podgotovka-paketa-dokumentov-po-preduprezhdeniyu-korruptsii-v-organizatsii/
 
-Документация по проекту в папке "manual".
+Документация по проекту: https://github.com/EVTrofimov/HSE/tree/main/manual
 
 В папке "forward-looking" размещена демонстрация перспективной версии (реализована на Python), которая находится на стадии пользовательского тестирования.
 Документация по перспективному проекту в папке "forward-looking/manual".
